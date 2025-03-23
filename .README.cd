@@ -1,0 +1,11 @@
+# Project Title  
+My SCM Project 
+
+## Description  
+Creating gitiginore file and readme file. 
+
+## Installation Steps  
+Follow these steps to set up the project:  
+1. Clone the repository:  
+   ```sh
+   git clone https://github.com/your-username/your-repository.git
